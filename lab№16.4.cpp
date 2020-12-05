@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 	setlocale(LC_ALL, "Russian");
-	int N, i, c;
+	int N, i;
 	cout << "N=";
 	cin >> N;
 	cout << "введите элементы массива" << endl;
